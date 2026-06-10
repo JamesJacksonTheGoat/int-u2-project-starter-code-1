@@ -5,20 +5,32 @@
 
 /* The code below adds a white background-color and black text color for the body of the page. */
 body {
-    color: black;
+    color: rgb(245, 137, 21);
     text-align: center;
-    background-color: white;
+    background-color: rgb(0, 0, 0);
 }
 
 
 /* The code below adds a black background-color and white text color for each section heading. */
 .section {
-    color:white;
+    color:rgb(255, 255, 255);
     text-align: center;
-    background-color: black;
+    background-color: rgb(162, 32, 169);
 }
 h1 {font-size: 40px;}
 .img{
     width: 1000px;
     height: 700px;
 }
+body{
+    background-color: indigo;}
+
+    h2{
+        font-size: 100px;
+         font-family: 'Times New Roman', serif;
+    }
+    
+        h1{border: 4px solid rgb(255, 255, 255);
+        padding: 200px;
+    margin: 20px;}
+    
